@@ -1,0 +1,566 @@
+{
+  "total_nodes": 25037,
+  "entity_type_counts": {
+    "disease": 17080,
+    "drug": 7957
+  },
+  "label_counts": {
+    "disease": 17080,
+    "drug": 7957
+  },
+  "sample_nodes": [
+    {
+      "node_id": "4:0a8b23a3-516e-42a3-ba06-8fadfef3f647:19244",
+      "node_name": "drug-induced dyskinesia",
+      "labels": [
+        "disease"
+      ],
+      "entity_type": "disease",
+      "properties": {
+        "MEDLINEPLUS_definition": "<p>Movement disorders are neurologic conditions that cause problems with movement, such as</p> <ul> <li>Increased movement that can be voluntary (intentional) or involuntary (unintended)</li> <li>Decreased or slow voluntary movement</li> </ul> <p>There are many different movement disorders. Some of the more common types include</p> <ul> <li>Ataxia, the loss of muscle coordination</li> <li><a href=\"https://medlineplus.gov/dystonia.html\">Dystonia</a>, in which involuntary contractions of your muscles cause twisting and repetitive movements. The movements can be painful.</li> <li><a href=\"https://medlineplus.gov/huntingtonsdisease.html\">Huntington's disease</a>, an inherited disease that causes nerve cells in certain parts of the brain to waste away. This includes the nerve cells that help to control voluntary movement.</li> <li><a href=\"https://medlineplus.gov/parkinsonsdisease.html\">Parkinson's disease</a>, which is disorder that slowly gets worse over time. It causes tremors, slowness of movement, and <a href=\"https://medlineplus.gov/walkingproblems.html\">trouble walking</a>.</li> <li><a href=\"https://medlineplus.gov/tourettesyndrome.html\">Tourette syndrome</a>, a condition which causes people to make sudden twitches, movements, or sounds (tics)</li> <li><a href=\"https://medlineplus.gov/tremor.html\">Tremor</a> and essential tremor, which cause involuntary trembling or shaking movements. The movements may be in one or more parts of your body.</li> </ul> <p>Causes of movement disorders include</p> <ul> <li>Genetics</li> <li><a href=\"https://medlineplus.gov/infectiousdiseases.html\">Infections</a></li> <li>Medicines</li> <li>Damage to the <a href=\"https://medlineplus.gov/traumaticbraininjury.html\">brain</a>, <a href=\"https://medlineplus.gov/spinalcordinjuries.html\">spinal cord</a>, or <a href=\"https://medlineplus.gov/peripheralnervedisorders.html\">peripheral nerves</a></li> <li><a href=\"https://medlineplus.gov/metabolicdisorders.html\">Metabolic disorders</a></li> <li><a href=\"https://medlineplus.gov/stroke.html\">Stroke</a> and <a href=\"https://medlineplus.gov/vasculardiseases.html\">vascular diseases</a></li> <li>Toxins</li> </ul> <p>Treatment varies by disorder. Medicines can cure some disorders. Others get better when an underlying disease is treated. Often, however, there is no cure. In that case, the goal of treatment is to improve symptoms and relieve pain.</p>",
+        "NCI_definition": "Neurological conditions resulting in abnormal voluntary or involuntary movement, which may impact the speed, fluency, quality and ease of movement.",
+        "node_index": "83749",
+        "CUI": [
+          "C0013386",
+          "C0751088",
+          "C0013384",
+          "C0026650",
+          "C0151538",
+          "C0152115",
+          "C0221722",
+          "C0234990",
+          "C0234991",
+          "C0234992",
+          "C0236120",
+          "C0392702",
+          "C0427085",
+          "C0427086",
+          "C0454606",
+          "C0549323",
+          "C0558189",
+          "C0852872",
+          "C0853940",
+          "C0858470",
+          "C0858555",
+          "C0858556",
+          "C0858888",
+          "C0860563"
+        ],
+        "node_source": "MONDO",
+        "NCI_FDA_definition": "Neurological conditions resulting in abnormal voluntary or involuntary movement, which may impact the speed, fluency, quality and ease of movement.",
+        "MSH_definition": "Syndromes which feature DYSKINESIAS as a cardinal manifestation of the disease process. Included in this category are degenerative, hereditary, post-infectious, medication-induced, post-inflammatory, and post-traumatic conditions.",
+        "node_id": "6732",
+        "umls_descriptions": [
+          "Physically- or psychologically-based abnormalities in motor processes relating primarily to posture, coordination, or locomotion.",
+          "Impairment of voluntary muscle control, characterized by spasmodic or repetitive motions or lack of coordination.",
+          "An abnormality of movement with a neurological basis characterized by changes in coordination and speed of voluntary movements. ",
+          "Abnormal involuntary movements which primarily affect the extremities, trunk, or jaw that occur as a manifestation of an underlying disease process. Conditions which feature recurrent or persistent episodes of dyskinesia as a primary manifestation of disease may be referred to as dyskinesia syndromes Dyskinesias are also a relatively common manifestation of basal ganglia diseases.",
+          "Abnormal involuntary motor processes that occur due to underlying disease processes.",
+          "Movement disorders are neurologic conditions that cause problems with movement, such as Increased movement that can be voluntary or involuntary Decreased or slow voluntary movement There are many different movement disorders. Some of the more common types include Ataxia, the loss of muscle coordination Dystonia, in which involuntary contractions of your muscles cause twisting and repetitive movements. The movements can be painful. Huntington's disease, an inherited disease that causes nerve cells in certain parts of the brain to waste away. This includes the nerve cells that help to control voluntary movement. Parkinson's disease, which is disorder that slowly gets worse over time. It causes tremors, slowness of movement, and trouble walking. Tourette syndrome, a condition which causes people to make sudden twitches, movements, or sounds Tremor and essential tremor, which cause involuntary trembling or shaking movements. The movements may be in one or more parts of your body. Causes of movement disorders include Genetics Infections Medicines Damage to the brain, spinal cord, or peripheral nerves Metabolic disorders Stroke and vascular diseases Toxins Treatment varies by disorder. Medicines can cure some disorders. Others get better when an underlying disease is treated. Often, however, there is no cure. In that case, the goal of treatment is to improve symptoms and relieve pain.",
+          "Abnormal movements, including hyperkinesis; hypokinesia; tremor; and dystonia, associated with the use of certain medications or drugs. Muscles of the face, trunk, neck, and extremities are most commonly affected. Tardive dyskinesia refers to abnormal hyperkinetic movements of the muscles of the face, tongue, and neck associated with the use of neuroleptic agents ",
+          "Neurological conditions resulting in abnormal voluntary or involuntary movement, which may impact the speed, fluency, quality and ease of movement.",
+          "Syndromes which feature dyskinesias as a cardinal manifestation of the disease process. Included in this category are degenerative, hereditary, post-infectious, medication-induced, post-inflammatory, and post-traumatic conditions.",
+          "A movement disorder which consists of effects including diminished voluntary movements and the presence of involuntary movements. ",
+          "Difficulty moving; distortion or impairment of voluntary movement, as in tic, spasm, or myoclonus.",
+          "Abnormality or impairment of voluntary movement.",
+          "dyskinesia due to extrapyramidal disorder; as a general rule, symptoms are absent during sleep, reduced with relaxation, and increased with stress.",
+          "a disease characterized by abnormal involuntary movements of muscles"
+        ],
+        "HPO_definition": "An abnormality of movement with a neurological basis characterized by changes in coordination and speed of voluntary movements. [HPO:probinson]",
+        "mondo_definitions": [
+          "Abnormal movements, including hyperkinesis; hypokinesia; tremor; and dystonia, associated with the use of certain medications or drugs. Muscles of the face, trunk, neck, and extremities are most commonly affected. Tardive dyskinesia refers to abnormal hyperkinetic movements of the muscles of the face, tongue, and neck associated with the use of neuroleptic agents (see antipsychotic agents). (Adams et al., Principles of Neurology, 6th ed, p1199)"
+        ],
+        "PSY_definition": "Physically- or psychologically-based abnormalities in motor processes relating primarily to posture, coordination, or locomotion.",
+        "node_name": "drug-induced dyskinesia",
+        "NCI_NICHD_definition": "Neurological conditions resulting in abnormal voluntary or involuntary movement, which may impact the speed, fluency, quality and ease of movement."
+      },
+      "property_keys": [
+        "MEDLINEPLUS_definition",
+        "NCI_definition",
+        "node_index",
+        "CUI",
+        "node_source",
+        "NCI_FDA_definition",
+        "MSH_definition",
+        "node_id",
+        "umls_descriptions",
+        "HPO_definition",
+        "mondo_definitions",
+        "PSY_definition",
+        "node_name",
+        "NCI_NICHD_definition"
+      ],
+      "combined_text": "<p>Movement disorders are neurologic conditions that cause problems with movement, such as</p> <ul> <li>Increased movement that can be voluntary (intentional) or involuntary (unintended)</li> <li>Decreased or slow voluntary movement</li> </ul> <p>There are many different movement disorders. Some of the more common types include</p> <ul> <li>Ataxia, the loss of muscle coordination</li> <li><a href=\"https://medlineplus.gov/dystonia.html\">Dystonia</a>, in which involuntary contractions of your muscles cause twisting and repetitive movements. The movements can be painful.</li> <li><a href=\"https://medlineplus.gov/huntingtonsdisease.html\">Huntington's disease</a>, an inherited disease that causes nerve cells in certain parts of the brain to waste away. This includes the nerve cells that help to control voluntary movement.</li> <li><a href=\"https://medlineplus.gov/parkinsonsdisease.html\">Parkinson's disease</a>, which is disorder that slowly gets worse over time. It causes tremors, slowness of movement, and <a href=\"https://medlineplus.gov/walkingproblems.html\">trouble walking</a>.</li> <li><a href=\"https://medlineplus.gov/tourettesyndrome.html\">Tourette syndrome</a>, a condition which causes people to make sudden twitches, movements, or sounds (tics)</li> <li><a href=\"https://medlineplus.gov/tremor.html\">Tremor</a> and essential tremor, which cause involuntary trembling or shaking movements. The movements may be in one or more parts of your body.</li> </ul> <p>Causes of movement disorders include</p> <ul> <li>Genetics</li> <li><a href=\"https://medlineplus.gov/infectiousdiseases.html\">Infections</a></li> <li>Medicines</li> <li>Damage to the <a href=\"https://medlineplus.gov/traumaticbraininjury.html\">brain</a>, <a href=\"https://medlineplus.gov/spinalcordinjuries.html\">spinal cord</a>, or <a href=\"https://medlineplus.gov/peripheralnervedisorders.html\">peripheral nerves</a></li> <li><a href=\"https://medlineplus.gov/metabolicdisorders.html\">Metabolic disorders</a></li> <li><a href=\"https://medlineplus.gov/stroke.html\">Stroke</a> and <a href=\"https://medlineplus.gov/vasculardiseases.html\">vascular diseases</a></li> <li>Toxins</li> </ul> <p>Treatment varies by disorder. Medicines can cure some disorders. Others get better when an underlying disease is treated. Often, however, there is no cure. In that case, the goal of treatment is to improve symptoms and relieve pain.</p> Neurological conditions resulting in abnormal voluntary or involuntary movement, which may impact the speed, fluency, quality and ease of movement. 83749 ['C0013386', 'C0751088', 'C0013384', 'C0026650', 'C0151538', 'C0152115', 'C0221722', 'C0234990', 'C0234991', 'C0234992', 'C0236120', 'C0392702', 'C0427085', 'C0427086', 'C0454606', 'C0549323', 'C0558189', 'C0852872', 'C0853940', 'C0858470', 'C0858555', 'C0858556', 'C0858888', 'C0860563'] MONDO Neurological conditions resulting in abnormal voluntary or involuntary movement, which may impact the speed, fluency, quality and ease of movement. Syndromes which feature DYSKINESIAS as a cardinal manifestation of the disease process. Included in this category are degenerative, hereditary, post-infectious, medication-induced, post-inflammatory, and post-traumatic conditions. 6732 ['Physically- or psychologically-based abnormalities in motor processes relating primarily to posture, coordination, or locomotion.', 'Impairment of voluntary muscle control, characterized by spasmodic or repetitive motions or lack of coordination.', 'An abnormality of movement with a neurological basis characterized by changes in coordination and speed of voluntary movements. ', 'Abnormal involuntary movements which primarily affect the extremities, trunk, or jaw that occur as a manifestation of an underlying disease process. Conditions which feature recurrent or persistent episodes of dyskinesia as a primary manifestation of disease may be referred to as dyskinesia syndromes Dyskinesias are also a relatively common manifestation of basal ganglia diseases.', 'Abnormal involuntary motor processes that occur due to underlying disease processes.', \"Movement disorders are neurologic conditions that cause problems with movement, such as Increased movement that can be voluntary or involuntary Decreased or slow voluntary movement There are many different movement disorders. Some of the more common types include Ataxia, the loss of muscle coordination Dystonia, in which involuntary contractions of your muscles cause twisting and repetitive movements. The movements can be painful. Huntington's disease, an inherited disease that causes nerve cells in certain parts of the brain to waste away. This includes the nerve cells that help to control voluntary movement. Parkinson's disease, which is disorder that slowly gets worse over time. It causes tremors, slowness of movement, and trouble walking. Tourette syndrome, a condition which causes people to make sudden twitches, movements, or sounds Tremor and essential tremor, which cause involuntary trembling or shaking movements. The movements may be in one or more parts of your body. Causes of movement disorders include Genetics Infections Medicines Damage to the brain, spinal cord, or peripheral nerves Metabolic disorders Stroke and vascular diseases Toxins Treatment varies by disorder. Medicines can cure some disorders. Others get better when an underlying disease is treated. Often, however, there is no cure. In that case, the goal of treatment is to improve symptoms and relieve pain.\", 'Abnormal movements, including hyperkinesis; hypokinesia; tremor; and dystonia, associated with the use of certain medications or drugs. Muscles of the face, trunk, neck, and extremities are most commonly affected. Tardive dyskinesia refers to abnormal hyperkinetic movements of the muscles of the face, tongue, and neck associated with the use of neuroleptic agents ', 'Neurological conditions resulting in abnormal voluntary or involuntary movement, which may impact the speed, fluency, quality and ease of movement.', 'Syndromes which feature dyskinesias as a cardinal manifestation of the disease process. Included in this category are degenerative, hereditary, post-infectious, medication-induced, post-inflammatory, and post-traumatic conditions.', 'A movement disorder which consists of effects including diminished voluntary movements and the presence of involuntary movements. ', 'Difficulty moving; distortion or impairment of voluntary movement, as in tic, spasm, or myoclonus.', 'Abnormality or impairment of voluntary movement.', 'dyskinesia due to extrapyramidal disorder; as a general rule, symptoms are absent during sleep, reduced with relaxation, and increased with stress.', 'a disease characterized by abnormal involuntary movements of muscles'] An abnormality of movement with a neurological basis characterized by changes in coordination and speed of voluntary movements. [HPO:probinson] ['Abnormal movements, including hyperkinesis; hypokinesia; tremor; and dystonia, associated with the use of certain medications or drugs. Muscles of the face, trunk, neck, and extremities are most commonly affected. Tardive dyskinesia refers to abnormal hyperkinetic movements of the muscles of the face, tongue, and neck associated with the use of neuroleptic agents (see antipsychotic agents). (Adams et al., Principles of Neurology, 6th ed, p1199)'] Physically- or psychologically-based abnormalities in motor processes relating primarily to posture, coordination, or locomotion. drug-induced dyskinesia Neurological conditions resulting in abnormal voluntary or involuntary movement, which may impact the speed, fluency, quality and ease of movement.",
+      "property_text": "drug-induced dyskinesia 6732 ['Abnormal movements, including hyperkinesis; hypokinesia; tremor; and dystonia, associated with the use of certain medications or drugs. Muscles of the face, trunk, neck, and extremities are most commonly affected. Tardive dyskinesia refers to abnormal hyperkinetic movements of the muscles of the face, tongue, and neck associated with the use of neuroleptic agents (see antipsychotic agents). (Adams et al., Principles of Neurology, 6th ed, p1199)']",
+      "text_length": 481
+    },
+    {
+      "node_id": "4:0a8b23a3-516e-42a3-ba06-8fadfef3f647:19245",
+      "node_name": "hyperemesis gravidarum (disease)",
+      "labels": [
+        "disease"
+      ],
+      "entity_type": "disease",
+      "properties": {
+        "mondo_definitions": [
+          "Severe, intractable vomiting during pregnancy (usually the first trimester) accompanied by dehydration, weight loss, and electrolyte imbalances."
+        ],
+        "CUI": [
+          "C0020450",
+          "C0020451",
+          "C0156692",
+          "C0156693",
+          "C0156694",
+          "C0156696",
+          "C0156697",
+          "C0156698",
+          "C0405080"
+        ],
+        "node_index": "83750",
+        "node_source": "MONDO",
+        "node_name": "hyperemesis gravidarum (disease)",
+        "node_id": "6791"
+      },
+      "property_keys": [
+        "mondo_definitions",
+        "CUI",
+        "node_index",
+        "node_source",
+        "node_name",
+        "node_id"
+      ],
+      "combined_text": "['Severe, intractable vomiting during pregnancy (usually the first trimester) accompanied by dehydration, weight loss, and electrolyte imbalances.'] ['C0020450', 'C0020451', 'C0156692', 'C0156693', 'C0156694', 'C0156696', 'C0156697', 'C0156698', 'C0405080'] 83750 MONDO hyperemesis gravidarum (disease) 6791",
+      "property_text": "hyperemesis gravidarum (disease) 6791 ['Severe, intractable vomiting during pregnancy (usually the first trimester) accompanied by dehydration, weight loss, and electrolyte imbalances.']",
+      "text_length": 186
+    },
+    {
+      "node_id": "4:0a8b23a3-516e-42a3-ba06-8fadfef3f647:19246",
+      "node_name": "torsades de pointes",
+      "labels": [
+        "disease"
+      ],
+      "entity_type": "disease",
+      "properties": {
+        "umls_descriptions": [
+          "An atypical polymorphic ventricular tachycardia that is characterized by fluctuation of the qrs complexes around the baseline.",
+          "A malignant form of polymorphic ventricular tachycardia that is characterized by heart rate between 200 and 250 beats per minute, and qrs complexes with changing amplitude and twisting of the points. The term also describes the syndrome of tachycardia with prolonged ventricular repolarization, long qt intervals exceeding 500 milliseconds or bradycardia. Torsades de pointes may be self-limited or may progress to ventricular fibrillation.",
+          "An electrocardiographic finding of an atypical rapid polymorphic ventricular tachycardia with a characteristic rotation of the qrs complex around the isoelectric baseline, occurring in the setting of a prolonged qt interval. In addition, the qrs complex displays a periodic waxing and waning of amplitude on the electrocardiogram.",
+          "A type of ventricular tachycardia characterized by polymorphioc qrs complexes that change in amplitue and cycle length, and thus have the appearance of oscillating around the baseline in the ekg. ",
+          "An electrocardiographic finding of an atypical rapid polymorphic ventricular tachycardia with a characteristic rotation of the qrs complex around the isoelectric baseline, occurring in the setting of a prolonged qt interval. In addition, the qrs complex displays a periodic waxing and waning of amplitude on the electrogram."
+        ],
+        "HPO_definition": "A type of ventricular tachycardia characterized by polymorphioc QRS complexes that change in amplitue and cycle length, and thus have the appearance of oscillating around the baseline in the EKG. [HPO:probinson]",
+        "mondo_definitions": [
+          "A malignant form of polymorphic ventricular tachycardia that is characterized by heart rate between 200 and 250 beats per minute, and qrs complexes with changing amplitude and twisting of the points. The term also describes the syndrome of tachycardia with prolonged ventricular repolarization, long qt intervals exceeding 500 milliseconds or bradycardia. Torsades de pointes may be self-limited or may progress to ventricular fibrillation."
+        ],
+        "NCI_definition": "An electrocardiographic finding of an atypical rapid polymorphic ventricular tachycardia with a characteristic rotation of the QRS complex around the isoelectric baseline, occurring in the setting of a prolonged QT interval. In addition, the QRS complex displays a periodic waxing and waning of amplitude on the electrocardiogram.",
+        "NCI_CDISC_definition": "An electrocardiographic finding of an atypical rapid polymorphic ventricular tachycardia with a characteristic rotation of the QRS complex around the isoelectric baseline, occurring in the setting of a prolonged QT interval. In addition, the QRS complex displays a periodic waxing and waning of amplitude on the electrogram.",
+        "CUI": "C0040479",
+        "node_index": "83751",
+        "node_source": "MONDO",
+        "node_name": "torsades de pointes",
+        "MSH_definition": "A malignant form of polymorphic ventricular tachycardia that is characterized by HEART RATE between 200 and 250 beats per minute, and QRS complexes with changing amplitude and twisting of the points. The term also describes the syndrome of tachycardia with prolonged ventricular repolarization, long QT intervals exceeding 500 milliseconds or BRADYCARDIA. Torsades de pointes may be self-limited or may progress to VENTRICULAR FIBRILLATION.",
+        "NCI_NICHD_definition": "An atypical polymorphic ventricular tachycardia that is characterized by fluctuation of the QRS complexes around the baseline.",
+        "node_id": "5478"
+      },
+      "property_keys": [
+        "umls_descriptions",
+        "HPO_definition",
+        "mondo_definitions",
+        "NCI_definition",
+        "NCI_CDISC_definition",
+        "CUI",
+        "node_index",
+        "node_source",
+        "node_name",
+        "MSH_definition",
+        "NCI_NICHD_definition",
+        "node_id"
+      ],
+      "combined_text": "['An atypical polymorphic ventricular tachycardia that is characterized by fluctuation of the qrs complexes around the baseline.', 'A malignant form of polymorphic ventricular tachycardia that is characterized by heart rate between 200 and 250 beats per minute, and qrs complexes with changing amplitude and twisting of the points. The term also describes the syndrome of tachycardia with prolonged ventricular repolarization, long qt intervals exceeding 500 milliseconds or bradycardia. Torsades de pointes may be self-limited or may progress to ventricular fibrillation.', 'An electrocardiographic finding of an atypical rapid polymorphic ventricular tachycardia with a characteristic rotation of the qrs complex around the isoelectric baseline, occurring in the setting of a prolonged qt interval. In addition, the qrs complex displays a periodic waxing and waning of amplitude on the electrocardiogram.', 'A type of ventricular tachycardia characterized by polymorphioc qrs complexes that change in amplitue and cycle length, and thus have the appearance of oscillating around the baseline in the ekg. ', 'An electrocardiographic finding of an atypical rapid polymorphic ventricular tachycardia with a characteristic rotation of the qrs complex around the isoelectric baseline, occurring in the setting of a prolonged qt interval. In addition, the qrs complex displays a periodic waxing and waning of amplitude on the electrogram.'] A type of ventricular tachycardia characterized by polymorphioc QRS complexes that change in amplitue and cycle length, and thus have the appearance of oscillating around the baseline in the EKG. [HPO:probinson] ['A malignant form of polymorphic ventricular tachycardia that is characterized by heart rate between 200 and 250 beats per minute, and qrs complexes with changing amplitude and twisting of the points. The term also describes the syndrome of tachycardia with prolonged ventricular repolarization, long qt intervals exceeding 500 milliseconds or bradycardia. Torsades de pointes may be self-limited or may progress to ventricular fibrillation.'] An electrocardiographic finding of an atypical rapid polymorphic ventricular tachycardia with a characteristic rotation of the QRS complex around the isoelectric baseline, occurring in the setting of a prolonged QT interval. In addition, the QRS complex displays a periodic waxing and waning of amplitude on the electrocardiogram. An electrocardiographic finding of an atypical rapid polymorphic ventricular tachycardia with a characteristic rotation of the QRS complex around the isoelectric baseline, occurring in the setting of a prolonged QT interval. In addition, the QRS complex displays a periodic waxing and waning of amplitude on the electrogram. C0040479 83751 MONDO torsades de pointes A malignant form of polymorphic ventricular tachycardia that is characterized by HEART RATE between 200 and 250 beats per minute, and QRS complexes with changing amplitude and twisting of the points. The term also describes the syndrome of tachycardia with prolonged ventricular repolarization, long QT intervals exceeding 500 milliseconds or BRADYCARDIA. Torsades de pointes may be self-limited or may progress to VENTRICULAR FIBRILLATION. An atypical polymorphic ventricular tachycardia that is characterized by fluctuation of the QRS complexes around the baseline. 5478",
+      "property_text": "torsades de pointes 5478 ['A malignant form of polymorphic ventricular tachycardia that is characterized by heart rate between 200 and 250 beats per minute, and qrs complexes with changing amplitude and twisting of the points. The term also describes the syndrome of tachycardia with prolonged ventricular repolarization, long qt intervals exceeding 500 milliseconds or bradycardia. Torsades de pointes may be self-limited or may progress to ventricular fibrillation.']",
+      "text_length": 469
+    },
+    {
+      "node_id": "4:0a8b23a3-516e-42a3-ba06-8fadfef3f647:19247",
+      "node_name": "focal hand dystonia",
+      "labels": [
+        "disease"
+      ],
+      "entity_type": "disease",
+      "properties": {
+        "mayo_symptoms": "Dystonia affects different people in varying ways. Muscle contractions might: Begin in a single area, such as your leg, neck or arm. Focal dystonia that begins after age 21 usually starts in the neck, arm or face and tends to remain focal or segmental. Occur during a specific action, such as handwriting. Worsen with stress, fatigue or anxiety. Become more noticeable over time. Areas of the body that can be affected include: Neck . Contractions cause your head to twist and turn to one side, or pull forward or backward, sometimes causing pain. Eyelids. Rapid blinking or involuntary spasms cause your eyes to close and make it difficult for you to see. Spasms usually aren't painful but might increase when you're in bright light, under stress or interacting with people. Your eyes might feel dry. Jaw or tongue . You might experience slurred speech, drooling, and difficulty chewing or swallowing. Oromandibular dystonia can be painful and often occurs in combination with cervical dystonia or blepharospasms. Voice box and vocal cords . You might have a tight or whispering voice. Hand and forearm. Some types of dystonia occur only while you do a repetitive activity, such as writing or playing a specific musical instrument .",
+        "NCI_definition": "Involuntary twitching of the eyelid.",
+        "node_index": "83752",
+        "CUI": [
+          "C0154676",
+          "C0005747",
+          "C0015371",
+          "C0027066",
+          "C0085583",
+          "C0152116",
+          "C1571952",
+          "C4316810"
+        ],
+        "node_source": "MONDO",
+        "mayo_causes": "The exact cause of dystonia isn't known. But it might involve altered nerve-cell communication in several regions of the brain. Some forms of dystonia are inherited. Dystonia also can be a symptom of another disease or condition, including: Parkinson's disease, Huntington's disease, Wilson's disease, Traumatic brain injury, Birth injury, Stroke, Brain tumor or certain disorders that develop in some people with cancer, Oxygen deprivation or carbon monoxide poisoning, Infections, such as tuberculosis or encephalitis, Reactions to certain medications or heavy metal poisoning",
+        "MSH_definition": "Excessive winking; tonic or clonic spasm of the orbicularis oculi muscle.",
+        "node_id": "482",
+        "umls_descriptions": [
+          "Involuntary twitching of the eyelid and/or eyebrow.",
+          "A focal dystonia of the fingers, hand, and/or forearm that appears when the affected person attempts to do a task that requires fine motor movements such as writing or playing a musical instrument. ",
+          "A disorder characterized by abnormal, repetitive, involuntary muscle movements, frenzied speech and extreme restlessness.",
+          "Abnormal movement characterized by involuntary jerking and writhing affecting the limbs, trunk, and facial muscles.",
+          "Involuntary twitching of the eyelid.",
+          "A movement disorder caused by defects in the basal ganglia. The clinical manifestations include changes in the muscle tone, dyskinesia, and akinesia. Causes include vascular disorders, degenerative disorders, and antipsychotic drugs.",
+          "defects in basal ganglia function; characterized by changes in muscle tone, poverty of voluntary movements , or abnormal involuntary movements",
+          "A focal dystonia that affects the muscles of the eyelids and brow, associated with involuntary recurrent spasm of both eyelids. ",
+          "Involuntary movements characterized by both athetosis and chorea ",
+          "A movement disorder affecting the limbs, trunk, and facial muscles that is characterized by involuntary jerking and writhing.",
+          "Excessive winking; tonic or clonic spasm of the orbicularis oculi muscle."
+        ],
+        "HPO_definition": "A focal dystonia of the fingers, hand, and/or forearm that appears when the affected person attempts to do a task that requires fine motor movements such as writing or playing a musical instrument. [HPO:probinson]A focal dystonia that affects the muscles of the eyelids and brow, associated with involuntary recurrent spasm of both eyelids. [HPO:probinson]",
+        "mayo_see_doc": "When to see a doctor, Early signs of dystonia often are mild, occasional and linked to a specific activity. See your doctor if you're experiencing involuntary muscle contractions.",
+        "mondo_definitions": [
+          "A focal dystonia that affects a single muscle or small group of muscles in the hand resulting from involuntary muscular contractions."
+        ],
+        "mayo_risk_factors": "Depending on the type of dystonia, complications can include: Physical disabilities that affect your performance of daily activities or specific tasks, Difficulty with vision that affects your eyelids, Difficulty with jaw movement, swallowing or speech, Pain and fatigue, due to constant contraction of your muscles, Depression, anxiety and social withdrawal",
+        "node_name": "focal hand dystonia",
+        "NCI_NICHD_definition": "Involuntary twitching of the eyelid and/or eyebrow."
+      },
+      "property_keys": [
+        "mayo_symptoms",
+        "NCI_definition",
+        "node_index",
+        "CUI",
+        "node_source",
+        "mayo_causes",
+        "MSH_definition",
+        "node_id",
+        "umls_descriptions",
+        "HPO_definition",
+        "mayo_see_doc",
+        "mondo_definitions",
+        "mayo_risk_factors",
+        "node_name",
+        "NCI_NICHD_definition"
+      ],
+      "combined_text": "Dystonia affects different people in varying ways. Muscle contractions might: Begin in a single area, such as your leg, neck or arm. Focal dystonia that begins after age 21 usually starts in the neck, arm or face and tends to remain focal or segmental. Occur during a specific action, such as handwriting. Worsen with stress, fatigue or anxiety. Become more noticeable over time. Areas of the body that can be affected include: Neck . Contractions cause your head to twist and turn to one side, or pull forward or backward, sometimes causing pain. Eyelids. Rapid blinking or involuntary spasms cause your eyes to close and make it difficult for you to see. Spasms usually aren't painful but might increase when you're in bright light, under stress or interacting with people. Your eyes might feel dry. Jaw or tongue . You might experience slurred speech, drooling, and difficulty chewing or swallowing. Oromandibular dystonia can be painful and often occurs in combination with cervical dystonia or blepharospasms. Voice box and vocal cords . You might have a tight or whispering voice. Hand and forearm. Some types of dystonia occur only while you do a repetitive activity, such as writing or playing a specific musical instrument . Involuntary twitching of the eyelid. 83752 ['C0154676', 'C0005747', 'C0015371', 'C0027066', 'C0085583', 'C0152116', 'C1571952', 'C4316810'] MONDO The exact cause of dystonia isn't known. But it might involve altered nerve-cell communication in several regions of the brain. Some forms of dystonia are inherited. Dystonia also can be a symptom of another disease or condition, including: Parkinson's disease, Huntington's disease, Wilson's disease, Traumatic brain injury, Birth injury, Stroke, Brain tumor or certain disorders that develop in some people with cancer, Oxygen deprivation or carbon monoxide poisoning, Infections, such as tuberculosis or encephalitis, Reactions to certain medications or heavy metal poisoning Excessive winking; tonic or clonic spasm of the orbicularis oculi muscle. 482 ['Involuntary twitching of the eyelid and/or eyebrow.', 'A focal dystonia of the fingers, hand, and/or forearm that appears when the affected person attempts to do a task that requires fine motor movements such as writing or playing a musical instrument. ', 'A disorder characterized by abnormal, repetitive, involuntary muscle movements, frenzied speech and extreme restlessness.', 'Abnormal movement characterized by involuntary jerking and writhing affecting the limbs, trunk, and facial muscles.', 'Involuntary twitching of the eyelid.', 'A movement disorder caused by defects in the basal ganglia. The clinical manifestations include changes in the muscle tone, dyskinesia, and akinesia. Causes include vascular disorders, degenerative disorders, and antipsychotic drugs.', 'defects in basal ganglia function; characterized by changes in muscle tone, poverty of voluntary movements , or abnormal involuntary movements', 'A focal dystonia that affects the muscles of the eyelids and brow, associated with involuntary recurrent spasm of both eyelids. ', 'Involuntary movements characterized by both athetosis and chorea ', 'A movement disorder affecting the limbs, trunk, and facial muscles that is characterized by involuntary jerking and writhing.', 'Excessive winking; tonic or clonic spasm of the orbicularis oculi muscle.'] A focal dystonia of the fingers, hand, and/or forearm that appears when the affected person attempts to do a task that requires fine motor movements such as writing or playing a musical instrument. [HPO:probinson]A focal dystonia that affects the muscles of the eyelids and brow, associated with involuntary recurrent spasm of both eyelids. [HPO:probinson] When to see a doctor, Early signs of dystonia often are mild, occasional and linked to a specific activity. See your doctor if you're experiencing involuntary muscle contractions. ['A focal dystonia that affects a single muscle or small group of muscles in the hand resulting from involuntary muscular contractions.'] Depending on the type of dystonia, complications can include: Physical disabilities that affect your performance of daily activities or specific tasks, Difficulty with vision that affects your eyelids, Difficulty with jaw movement, swallowing or speech, Pain and fatigue, due to constant contraction of your muscles, Depression, anxiety and social withdrawal focal hand dystonia Involuntary twitching of the eyelid and/or eyebrow.",
+      "property_text": "focal hand dystonia 482 ['A focal dystonia that affects a single muscle or small group of muscles in the hand resulting from involuntary muscular contractions.'] Dystonia affects different people in varying ways. Muscle contractions might: Begin in a single area, such as your leg, neck or arm. Focal dystonia that begins after age 21 usually starts in the neck, arm or face and tends to remain focal or segmental. Occur during a specific action, such as handwriting. Worsen with stress, fatigue or a...",
+      "text_length": 503
+    },
+    {
+      "node_id": "4:0a8b23a3-516e-42a3-ba06-8fadfef3f647:19248",
+      "node_name": "tinea pedis",
+      "labels": [
+        "disease"
+      ],
+      "entity_type": "disease",
+      "properties": {
+        "mayo_symptoms": "Athlete's foot usually causes a scaly red rash. The rash typically begins in between the toes. Itching is often the worst right after you take off your shoes and socks. Some types of athlete's foot feature blisters or ulcers. The moccasin variety of athlete's foot causes chronic dryness and scaling on the soles that extends up the side of the foot. It can be mistaken for eczema or dry skin. The infection can affect one or both feet and can spread to your hand \u2014 especially if you scratch or pick at the infected parts of your feet.",
+        "MEDLINEPLUS_definition": "<p>Athlete's foot is a common infection caused by a fungus. It most often affects the space between the toes. Symptoms include itching, burning, and cracked, scaly skin between your toes.</p> <p>You can get athlete's foot from damp surfaces, such as showers, swimming pools, and locker room floors. To prevent it</p> <ul> <li>Keep your feet clean, dry, and cool</li> <li>Wear clean socks</li> <li>Don't walk barefoot in public areas</li> <li>Wear flip-flops in locker room showers</li> <li>Keep your toenails clean and clipped short</li> </ul> <p>Treatments include over-the-counter antifungal creams for most cases and prescription medicines for more serious infections. These usually clear up the infection, but it can come back.</p> <p class=\"\">Centers for Disease Control and Prevention</p>",
+        "node_index": "83753",
+        "mayo_complications": "Your athlete's foot infection can spread to other parts of your body, including: Your hand. People who scratch or pick at the infected parts of their feet may develop a similar infection in one of their hands. Your nails. The fungi associated with athlete's foot can also infect your toenails, a location that tends to be more resistant to treatment. Your groin. Jock itch is often caused by the same fungus that results in athlete's foot. It's common for the infection to spread from the feet to the groin as the fungus can travel on your hands or on a towel.",
+        "CUI": "C0040259",
+        "node_source": "MONDO",
+        "mayo_causes": "Athlete's foot is caused by the same type of fungus that causes ringworm and jock itch. Damp socks and shoes and warm, humid conditions favor the organisms' growth. Athlete's foot is contagious and can be spread by contact with an infected person or from contact with contaminated surfaces, such as towels, floors and shoes.",
+        "MSH_definition": "Dermatological pruritic lesion in the feet, caused by Trichophyton rubrum, T. mentagrophytes, or Epidermophyton floccosum.",
+        "node_id": "5984",
+        "umls_descriptions": [
+          "Athlete's foot is a common infection caused by a fungus. It most often affects the space between the toes. Symptoms include itching, burning, and cracked, scaly skin between your toes. You can get athlete's foot from damp surfaces, such as showers, swimming pools, and locker room floors. To prevent it Keep your feet clean, dry, and cool Wear clean socks Don't walk barefoot in public areas Wear flip-flops in locker room showers Keep your toenails clean and clipped short Treatments include over-the-counter antifungal creams for most cases and prescription medicines for more serious infections. These usually clear up the infection, but it can come back. Centers for Disease Control and Prevention",
+          "Dermatological pruritic lesion in the feet, caused by Trichophyton rubrum, t. mentagrophytes, or Epidermophyton floccosum."
+        ],
+        "mayo_see_doc": "When to see a doctor, If you have a rash on your foot that doesn't improve within two weeks of beginning self-treatment with an over-the-counter antifungal product, see your doctor. If you have diabetes, see your doctor if you suspect you have athlete's foot, especially if you notice any signs of a possible secondary bacterial infection such as excessive redness, swelling, drainage or fever.",
+        "mondo_definitions": [
+          "Dermatological pruritic lesion in the feet, caused by Trichophyton rubrum, T. mentagrophytes, or Epidermophyton floccosum."
+        ],
+        "mayo_risk_factors": "You are at higher risk of athlete's foot if you: Are a man, Frequently wear damp socks or tightfitting shoes, Share mats, rugs, bed linens, clothes or shoes with someone who has a fungal infection, Walk barefoot in public areas where the infection can spread, such as locker rooms, saunas, swimming pools, communal baths and showers",
+        "node_name": "tinea pedis",
+        "mayo_prevention": "These tips can help you avoid athlete's foot or ease the symptoms if infection occurs: Keep your feet dry, especially between your toes. Go barefoot to let your feet air out as much as possible when you're home. Dry between your toes after a bath or shower. Change socks regularly. If your feet get very sweaty, change your socks twice a day. Wear light, well-ventilated shoes. Avoid shoes made of synthetic material, such as vinyl or rubber. Alternate pairs of shoes. Don't wear the same pair every day so that you give your shoes time to dry after each use. Protect your feet in public places. Wear waterproof sandals or shoes around public pools, showers and lockers rooms. Treat your feet. Use powder, preferably antifungal, on your feet daily. Don't share shoes. Sharing risks spreading a fungal infection."
+      },
+      "property_keys": [
+        "mayo_symptoms",
+        "MEDLINEPLUS_definition",
+        "node_index",
+        "mayo_complications",
+        "CUI",
+        "node_source",
+        "mayo_causes",
+        "MSH_definition",
+        "node_id",
+        "umls_descriptions",
+        "mayo_see_doc",
+        "mondo_definitions",
+        "mayo_risk_factors",
+        "node_name",
+        "mayo_prevention"
+      ],
+      "combined_text": "Athlete's foot usually causes a scaly red rash. The rash typically begins in between the toes. Itching is often the worst right after you take off your shoes and socks. Some types of athlete's foot feature blisters or ulcers. The moccasin variety of athlete's foot causes chronic dryness and scaling on the soles that extends up the side of the foot. It can be mistaken for eczema or dry skin. The infection can affect one or both feet and can spread to your hand \u2014 especially if you scratch or pick at the infected parts of your feet. <p>Athlete's foot is a common infection caused by a fungus. It most often affects the space between the toes. Symptoms include itching, burning, and cracked, scaly skin between your toes.</p> <p>You can get athlete's foot from damp surfaces, such as showers, swimming pools, and locker room floors. To prevent it</p> <ul> <li>Keep your feet clean, dry, and cool</li> <li>Wear clean socks</li> <li>Don't walk barefoot in public areas</li> <li>Wear flip-flops in locker room showers</li> <li>Keep your toenails clean and clipped short</li> </ul> <p>Treatments include over-the-counter antifungal creams for most cases and prescription medicines for more serious infections. These usually clear up the infection, but it can come back.</p> <p class=\"\">Centers for Disease Control and Prevention</p> 83753 Your athlete's foot infection can spread to other parts of your body, including: Your hand. People who scratch or pick at the infected parts of their feet may develop a similar infection in one of their hands. Your nails. The fungi associated with athlete's foot can also infect your toenails, a location that tends to be more resistant to treatment. Your groin. Jock itch is often caused by the same fungus that results in athlete's foot. It's common for the infection to spread from the feet to the groin as the fungus can travel on your hands or on a towel. C0040259 MONDO Athlete's foot is caused by the same type of fungus that causes ringworm and jock itch. Damp socks and shoes and warm, humid conditions favor the organisms' growth. Athlete's foot is contagious and can be spread by contact with an infected person or from contact with contaminated surfaces, such as towels, floors and shoes. Dermatological pruritic lesion in the feet, caused by Trichophyton rubrum, T. mentagrophytes, or Epidermophyton floccosum. 5984 [\"Athlete's foot is a common infection caused by a fungus. It most often affects the space between the toes. Symptoms include itching, burning, and cracked, scaly skin between your toes. You can get athlete's foot from damp surfaces, such as showers, swimming pools, and locker room floors. To prevent it Keep your feet clean, dry, and cool Wear clean socks Don't walk barefoot in public areas Wear flip-flops in locker room showers Keep your toenails clean and clipped short Treatments include over-the-counter antifungal creams for most cases and prescription medicines for more serious infections. These usually clear up the infection, but it can come back. Centers for Disease Control and Prevention\", 'Dermatological pruritic lesion in the feet, caused by Trichophyton rubrum, t. mentagrophytes, or Epidermophyton floccosum.'] When to see a doctor, If you have a rash on your foot that doesn't improve within two weeks of beginning self-treatment with an over-the-counter antifungal product, see your doctor. If you have diabetes, see your doctor if you suspect you have athlete's foot, especially if you notice any signs of a possible secondary bacterial infection such as excessive redness, swelling, drainage or fever. ['Dermatological pruritic lesion in the feet, caused by Trichophyton rubrum, T. mentagrophytes, or Epidermophyton floccosum.'] You are at higher risk of athlete's foot if you: Are a man, Frequently wear damp socks or tightfitting shoes, Share mats, rugs, bed linens, clothes or shoes with someone who has a fungal infection, Walk barefoot in public areas where the infection can spread, such as locker rooms, saunas, swimming pools, communal baths and showers tinea pedis These tips can help you avoid athlete's foot or ease the symptoms if infection occurs: Keep your feet dry, especially between your toes. Go barefoot to let your feet air out as much as possible when you're home. Dry between your toes after a bath or shower. Change socks regularly. If your feet get very sweaty, change your socks twice a day. Wear light, well-ventilated shoes. Avoid shoes made of synthetic material, such as vinyl or rubber. Alternate pairs of shoes. Don't wear the same pair every day so that you give your shoes time to dry after each use. Protect your feet in public places. Wear waterproof sandals or shoes around public pools, showers and lockers rooms. Treat your feet. Use powder, preferably antifungal, on your feet daily. Don't share shoes. Sharing risks spreading a fungal infection.",
+      "property_text": "tinea pedis 5984 ['Dermatological pruritic lesion in the feet, caused by Trichophyton rubrum, T. mentagrophytes, or Epidermophyton floccosum.'] Athlete's foot usually causes a scaly red rash. The rash typically begins in between the toes. Itching is often the worst right after you take off your shoes and socks. Some types of athlete's foot feature blisters or ulcers. The moccasin variety of athlete's foot causes chronic dryness and scaling on the soles that extends up the side of the foot. It ca...",
+      "text_length": 503
+    },
+    {
+      "node_id": "4:0a8b23a3-516e-42a3-ba06-8fadfef3f647:19249",
+      "node_name": "common wart",
+      "labels": [
+        "disease"
+      ],
+      "entity_type": "disease",
+      "properties": {
+        "mayo_symptoms": "Common warts usually occur on your fingers or hands and may be: Small, fleshy, grainy bumps, Flesh-colored, white, pink or tan, Rough to the touch, Sprinkled with black pinpoints, which are small, clotted blood vessels",
+        "MEDLINEPLUS_definition": "<p>Genital warts are a <a href=\"https://medlineplus.gov/sexuallytransmitteddiseases.html\">sexually transmitted disease</a> (STD) caused by the <a href=\"https://medlineplus.gov/hpv.html\">human papillomavirus</a> (HPV). The warts usually appear as a small bump or group of bumps in the genital area. They are flesh-colored and can be flat or look bumpy like cauliflower. Some genital warts are so small you cannot see them. In women, the warts usually occur in or around the vagina, on the cervix, or around the anus. In men, genital warts are less common. They may have warts on the tip of the penis, around the anus, or on the scrotum, thigh, or groin.</p> <p>You can get genital warts during oral, vaginal, or anal sex with an infected partner. Correct usage of latex condoms greatly reduces, but does not completely eliminate, the risk of catching or spreading HPV. The most reliable way to avoid infection is to not have anal, vaginal, or oral sex. HPV vaccines may help prevent some of the HPV infections that cause genital warts.</p> <p>Your health care provider usually diagnoses genital warts by seeing them. The warts might disappear on their own. If not, your health care provider can treat or remove them. HPV stays in your body even after treatment, so warts can come back.</p> <p class=\"\">Dept. of Health and Human Services Office on Women's Health</p>",
+        "NCI_definition": "A wart caused by human papillomavirus.A sexually transmitted papillary growth caused by the human papillomavirus. It usually arises in the skin and mucous membranes of the perianal region and external genitalia.An infectious process caused by a human papillomavirus. This infection can cause abnormal tissue growth.",
+        "node_index": "83754",
+        "mayo_complications": "To reduce your risk of common warts: Avoid direct contact with warts. This includes your own warts. Don't pick at warts. Picking may spread the virus. Don't use the same emery board, pumice stone or nail clipper on your warts as you use on your healthy skin and nails. Use a disposable emery board. Don't bite your fingernails. Warts occur more often in skin that has been broken. Nibbling the skin around your fingernails opens the door for the virus. Groom with care. And avoid brushing, clipping or shaving areas that have warts. If you must shave, use an electric razor.",
+        "CUI": [
+          "C0043037",
+          "C3665596",
+          "C0009663",
+          "C0343641",
+          "C1322251",
+          "C1540626",
+          "C3665595"
+        ],
+        "node_source": "MONDO",
+        "mayo_causes": "Common warts are caused by the human papillomavirus . The virus is quite common and has more than 150 types, but only a few cause warts on your hands. Some strains of HPV are acquired through sexual contact. Most forms, however, are spread by casual skin contact or through shared objects, such as towels or washcloths. The virus usually spreads through breaks in your skin, such as a hangnail or a scrape. Biting your nails also can cause warts to spread on your fingertips and around your nails. Each person's immune system responds to the HPV virus differently, so not everyone who comes in contact with HPV develops warts.",
+        "MSH_definition": "Sexually transmitted form of anogenital warty growth caused by the human papillomaviruses.Neoplasms of the skin and mucous membranes caused by papillomaviruses. They are usually benign but some have a high risk for malignant progression.",
+        "node_id": "1209",
+        "umls_descriptions": [
+          "A wart caused by human papillomavirus.",
+          "Warts affecting the skin in the genital area Warts can be small, beginning as a pinhead-size swelling that may become larger and take on a pdenuculated appearance. Warts can spread and coalesce into large masses in the genital or anal area. Their color is variable but tends to be skin colored or darker, and they may occasionally bleed. Warts may cause itching, redness, or discomfort. An outbreak of genital warts may also cause psychological distress. ",
+          "Neoplasms of the skin and mucous membranes caused by papillomaviruses. They are usually benign but some have a high risk for malignant progression.",
+          "A sexually transmitted papillary growth caused by the human papillomavirus. It usually arises in the skin and mucous membranes of the perianal region and external genitalia.",
+          "Genital warts are a sexually transmitted disease caused by the human papillomavirus The warts usually appear as a small bump or group of bumps in the genital area. They are flesh-colored and can be flat or look bumpy like cauliflower. Some genital warts are so small you cannot see them. In women, the warts usually occur in or around the vagina, on the cervix, or around the anus. In men, genital warts are less common. They may have warts on the tip of the penis, around the anus, or on the scrotum, thigh, or groin. You can get genital warts during oral, vaginal, or anal sex with an infected partner. Correct usage of latex condoms greatly reduces, but does not completely eliminate, the risk of catching or spreading hpv. The most reliable way to avoid infection is to not have anal, vaginal, or oral sex. hpv vaccines may help prevent some of the hpv infections that cause genital warts. Your health care provider usually diagnoses genital warts by seeing them. The warts might disappear on their own. If not, your health care provider can treat or remove them. hpv stays in your body even after treatment, so warts can come back. Dept. of Health and Human Services Office on Women's Health",
+          "A raised growth on the surface of the genitals caused by human papillomavirus infection. The hpv in genital warts is very contagious and can be spread by skin-to-skin contact, usually during oral, anal, or genital sex with an infected partner.",
+          "small, pointed papilloma of viral origin, usually occurring on the skin or mucous surface of the external genitalia or perianal region.",
+          "A sexually transmitted papillary growth caused by the human papilloma virus. It usually arises in the skin and mucous membranes of the perianal region and external genitalia. Check for \"https://www.cancer.gov/about-cancer/treatment/clinical-trials/intervention/C2960\" active clinical trials using this agent. ",
+          "A wart of the perianal region or genitalia that is caused by sexual transmission of the human papillomavirus.",
+          "Sexually transmitted form of anogenital warty growth caused by the human papillomaviruses.",
+          "A wart on the skin.",
+          "An infectious process caused by a human papillomavirus. This infection can cause abnormal tissue growth."
+        ],
+        "HPO_definition": "Warts affecting the skin in the genital area (peniile shaft, scrotum, vagina, or labia majora). Warts can be small, beginning as a pinhead-size swelling that may become larger and take on a pdenuculated appearance. Warts can spread and coalesce into large masses in the genital or anal area. Their color is variable but tends to be skin colored or darker, and they may occasionally bleed. Warts may cause itching, redness, or discomfort. An outbreak of genital warts may also cause psychological distress. [PMID:28722914]",
+        "mayo_see_doc": "When to see a doctor, See your doctor for common warts if: The growths are painful or change in appearance or color, You've tried treating the warts, but they persist, spread or recur, The growths are bothersome and interfere with activities, You aren't sure whether the growths are warts, You are an adult and numerous warts begin to appear, which may indicate the immune system is malfunctioning",
+        "mondo_definitions": [
+          "A wart caused by human papillomavirus. It can appear anywhere on the skin."
+        ],
+        "PDQ_definition": "A sexually transmitted papillary growth caused by the human papilloma virus. It usually arises in the skin and mucous membranes of the perianal region and external genitalia. Check for \"https://www.cancer.gov/about-cancer/treatment/clinical-trials/intervention/C2960\" active clinical trials using this agent. (\"http://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI%20Thesaurus&code=C2960\" NCI Thesaurus)",
+        "mayo_risk_factors": "People at higher risk of developing common warts include: Children and young adults, because their bodies may not have built up immunity to the virus, People with weakened immune systems, such as those with HIV/AIDS or people who've had organ transplants",
+        "node_name": "common wart",
+        "CSP_definition": "small, pointed papilloma of viral origin, usually occurring on the skin or mucous surface of the external genitalia or perianal region.",
+        "NCI_NCI_GLOSS_definition": "A raised growth on the surface of the genitals caused by human papillomavirus (HPV) infection. The HPV in genital warts is very contagious and can be spread by skin-to-skin contact, usually during oral, anal, or genital sex with an infected partner.",
+        "NCI_NICHD_definition": "A wart on the skin.A wart of the perianal region or genitalia that is caused by sexual transmission of the human papillomavirus."
+      },
+      "property_keys": [
+        "mayo_symptoms",
+        "MEDLINEPLUS_definition",
+        "NCI_definition",
+        "node_index",
+        "mayo_complications",
+        "CUI",
+        "node_source",
+        "mayo_causes",
+        "MSH_definition",
+        "node_id",
+        "umls_descriptions",
+        "HPO_definition",
+        "mayo_see_doc",
+        "mondo_definitions",
+        "PDQ_definition",
+        "mayo_risk_factors",
+        "node_name",
+        "CSP_definition",
+        "NCI_NCI_GLOSS_definition",
+        "NCI_NICHD_definition"
+      ],
+      "combined_text": "Common warts usually occur on your fingers or hands and may be: Small, fleshy, grainy bumps, Flesh-colored, white, pink or tan, Rough to the touch, Sprinkled with black pinpoints, which are small, clotted blood vessels <p>Genital warts are a <a href=\"https://medlineplus.gov/sexuallytransmitteddiseases.html\">sexually transmitted disease</a> (STD) caused by the <a href=\"https://medlineplus.gov/hpv.html\">human papillomavirus</a> (HPV). The warts usually appear as a small bump or group of bumps in the genital area. They are flesh-colored and can be flat or look bumpy like cauliflower. Some genital warts are so small you cannot see them. In women, the warts usually occur in or around the vagina, on the cervix, or around the anus. In men, genital warts are less common. They may have warts on the tip of the penis, around the anus, or on the scrotum, thigh, or groin.</p> <p>You can get genital warts during oral, vaginal, or anal sex with an infected partner. Correct usage of latex condoms greatly reduces, but does not completely eliminate, the risk of catching or spreading HPV. The most reliable way to avoid infection is to not have anal, vaginal, or oral sex. HPV vaccines may help prevent some of the HPV infections that cause genital warts.</p> <p>Your health care provider usually diagnoses genital warts by seeing them. The warts might disappear on their own. If not, your health care provider can treat or remove them. HPV stays in your body even after treatment, so warts can come back.</p> <p class=\"\">Dept. of Health and Human Services Office on Women's Health</p> A wart caused by human papillomavirus.A sexually transmitted papillary growth caused by the human papillomavirus. It usually arises in the skin and mucous membranes of the perianal region and external genitalia.An infectious process caused by a human papillomavirus. This infection can cause abnormal tissue growth. 83754 To reduce your risk of common warts: Avoid direct contact with warts. This includes your own warts. Don't pick at warts. Picking may spread the virus. Don't use the same emery board, pumice stone or nail clipper on your warts as you use on your healthy skin and nails. Use a disposable emery board. Don't bite your fingernails. Warts occur more often in skin that has been broken. Nibbling the skin around your fingernails opens the door for the virus. Groom with care. And avoid brushing, clipping or shaving areas that have warts. If you must shave, use an electric razor. ['C0043037', 'C3665596', 'C0009663', 'C0343641', 'C1322251', 'C1540626', 'C3665595'] MONDO Common warts are caused by the human papillomavirus . The virus is quite common and has more than 150 types, but only a few cause warts on your hands. Some strains of HPV are acquired through sexual contact. Most forms, however, are spread by casual skin contact or through shared objects, such as towels or washcloths. The virus usually spreads through breaks in your skin, such as a hangnail or a scrape. Biting your nails also can cause warts to spread on your fingertips and around your nails. Each person's immune system responds to the HPV virus differently, so not everyone who comes in contact with HPV develops warts. Sexually transmitted form of anogenital warty growth caused by the human papillomaviruses.Neoplasms of the skin and mucous membranes caused by papillomaviruses. They are usually benign but some have a high risk for malignant progression. 1209 ['A wart caused by human papillomavirus.', 'Warts affecting the skin in the genital area Warts can be small, beginning as a pinhead-size swelling that may become larger and take on a pdenuculated appearance. Warts can spread and coalesce into large masses in the genital or anal area. Their color is variable but tends to be skin colored or darker, and they may occasionally bleed. Warts may cause itching, redness, or discomfort. An outbreak of genital warts may also cause psychological distress. ', 'Neoplasms of the skin and mucous membranes caused by papillomaviruses. They are usually benign but some have a high risk for malignant progression.', 'A sexually transmitted papillary growth caused by the human papillomavirus. It usually arises in the skin and mucous membranes of the perianal region and external genitalia.', \"Genital warts are a sexually transmitted disease caused by the human papillomavirus The warts usually appear as a small bump or group of bumps in the genital area. They are flesh-colored and can be flat or look bumpy like cauliflower. Some genital warts are so small you cannot see them. In women, the warts usually occur in or around the vagina, on the cervix, or around the anus. In men, genital warts are less common. They may have warts on the tip of the penis, around the anus, or on the scrotum, thigh, or groin. You can get genital warts during oral, vaginal, or anal sex with an infected partner. Correct usage of latex condoms greatly reduces, but does not completely eliminate, the risk of catching or spreading hpv. The most reliable way to avoid infection is to not have anal, vaginal, or oral sex. hpv vaccines may help prevent some of the hpv infections that cause genital warts. Your health care provider usually diagnoses genital warts by seeing them. The warts might disappear on their own. If not, your health care provider can treat or remove them. hpv stays in your body even after treatment, so warts can come back. Dept. of Health and Human Services Office on Women's Health\", 'A raised growth on the surface of the genitals caused by human papillomavirus infection. The hpv in genital warts is very contagious and can be spread by skin-to-skin contact, usually during oral, anal, or genital sex with an infected partner.', 'small, pointed papilloma of viral origin, usually occurring on the skin or mucous surface of the external genitalia or perianal region.', 'A sexually transmitted papillary growth caused by the human papilloma virus. It usually arises in the skin and mucous membranes of the perianal region and external genitalia. Check for \"https://www.cancer.gov/about-cancer/treatment/clinical-trials/intervention/C2960\" active clinical trials using this agent. ', 'A wart of the perianal region or genitalia that is caused by sexual transmission of the human papillomavirus.', 'Sexually transmitted form of anogenital warty growth caused by the human papillomaviruses.', 'A wart on the skin.', 'An infectious process caused by a human papillomavirus. This infection can cause abnormal tissue growth.'] Warts affecting the skin in the genital area (peniile shaft, scrotum, vagina, or labia majora). Warts can be small, beginning as a pinhead-size swelling that may become larger and take on a pdenuculated appearance. Warts can spread and coalesce into large masses in the genital or anal area. Their color is variable but tends to be skin colored or darker, and they may occasionally bleed. Warts may cause itching, redness, or discomfort. An outbreak of genital warts may also cause psychological distress. [PMID:28722914] When to see a doctor, See your doctor for common warts if: The growths are painful or change in appearance or color, You've tried treating the warts, but they persist, spread or recur, The growths are bothersome and interfere with activities, You aren't sure whether the growths are warts, You are an adult and numerous warts begin to appear, which may indicate the immune system is malfunctioning ['A wart caused by human papillomavirus. It can appear anywhere on the skin.'] A sexually transmitted papillary growth caused by the human papilloma virus. It usually arises in the skin and mucous membranes of the perianal region and external genitalia. Check for \"https://www.cancer.gov/about-cancer/treatment/clinical-trials/intervention/C2960\" active clinical trials using this agent. (\"http://ncit.nci.nih.gov/ncitbrowser/ConceptReport.jsp?dictionary=NCI%20Thesaurus&code=C2960\" NCI Thesaurus) People at higher risk of developing common warts include: Children and young adults, because their bodies may not have built up immunity to the virus, People with weakened immune systems, such as those with HIV/AIDS or people who've had organ transplants common wart small, pointed papilloma of viral origin, usually occurring on the skin or mucous surface of the external genitalia or perianal region. A raised growth on the surface of the genitals caused by human papillomavirus (HPV) infection. The HPV in genital warts is very contagious and can be spread by skin-to-skin contact, usually during oral, anal, or genital sex with an infected partner. A wart on the skin.A wart of the perianal region or genitalia that is caused by sexual transmission of the human papillomavirus.",
+      "property_text": "common wart 1209 ['A wart caused by human papillomavirus. It can appear anywhere on the skin.'] Common warts usually occur on your fingers or hands and may be: Small, fleshy, grainy bumps, Flesh-colored, white, pink or tan, Rough to the touch, Sprinkled with black pinpoints, which are small, clotted blood vessels",
+      "text_length": 314
+    },
+    {
+      "node_id": "4:0a8b23a3-516e-42a3-ba06-8fadfef3f647:19250",
+      "node_name": "superficial multifocal basal cell carcinoma",
+      "labels": [
+        "disease"
+      ],
+      "entity_type": "disease",
+      "properties": {
+        "mayo_symptoms": "Basal cell carcinoma usually develops on sun-exposed parts of your body, especially your head and neck. Less often, basal cell carcinoma can develop on parts of your body usually protected from the sun, such as the genitals. Basal cell carcinoma appears as a change in the skin, such as a growth or a sore that won't heal. These changes in the skin usually have one of the following characteristics: A pearly white, skin-colored or pink bump that is translucent, meaning you can see a bit through the surface. Tiny blood vessels are often visible. In people with darker skin tones, the lesion may be darker but still somewhat translucent. The most common type of basal cell carcinoma, this lesion often appears on the face and ears. The lesion may rupture, bleed and scab over. A brown, black or blue lesion \u2014 or a lesion with dark spots \u2014 with a slightly raised, translucent border. A flat, scaly, reddish patch with a raised edge is more common on the back or chest. Over time, these patches can grow quite large. A white, waxy, scar-like lesion without a clearly defined border, called morpheaform basal cell carcinoma, is the least common.",
+        "mayo_see_doc": "When to see a doctor, Make an appointment with your doctor if you observe changes in the appearance of your skin, such as a new growth, a change in a previous growth or a recurring sore.",
+        "mondo_definitions": [
+          "A superficial basal cell carcinoma of the skin characterized by the presence of lobules of basaloid cells which are separated by large distances and represent multifocal discrete tumors."
+        ],
+        "CUI": [
+          "C0334256",
+          "C0862889"
+        ],
+        "node_index": "83755",
+        "mayo_risk_factors": "Factors that increase your risk of basal cell carcinoma include: Chronic sun exposure. A lot of time spent in the sun \u2014 or in commercial tanning beds \u2014 increases the risk of basal cell carcinoma. The threat is greater if you live in a sunny or high-altitude location, both of which expose you to more UV radiation. Severe sunburns also increase your risk. Radiation therapy. Radiation therapy to treat acne or other skin conditions may increase the risk of basal cell carcinoma at previous treatment sites on the skin. Fair skin. The risk of basal cell carcinoma is higher among people who freckle or burn easily or who have very light skin, red or blond hair, or light-colored eyes. Increasing age. Because basal cell carcinoma often takes decades to develop, the majority of basal cell carcinomas occur in older adults. But it can also affect younger adults and is becoming more common in people in their 20s and 30s. A personal or family history of skin cancer. If you've had basal cell carcinoma one or more times, you have a good chance of developing it again. If you have a family history of skin cancer, you may have an increased risk of developing basal cell carcinoma. Immune-suppressing drugs. Taking medications that suppress your immune system, such as anti-rejection drugs used after transplant surgery, significantly increases your risk of skin cancer. Exposure to arsenic. Arsenic, a toxic metal that's found widely in the environment, increases the risk of basal cell carcinoma and other cancers. Everyone has some arsenic exposure because it occurs naturally. But some people may have higher exposure if they drink contaminated well water or have a job that involves producing or using arsenic. Inherited syndromes that cause skin cancer. Certain rare genetic diseases can increase the risk of basal cell carcinoma, including nevoid basal cell carcinoma syndrome and xeroderma pigmentosum.",
+        "mayo_complications": "Complications of basal cell carcinoma can include: A risk of recurrence. Basal cell carcinomas commonly recur, even after successful treatment. An increased risk of other types of skin cancer. A history of basal cell carcinoma may also increase the chance of developing other types of skin cancer, such as squamous cell carcinoma. Cancer that spreads beyond the skin. Very rarely, basal cell carcinoma can spread to nearby lymph nodes and other areas of the body, such as the bones and lungs.",
+        "mayo_prevention": "To reduce your risk of basal cell carcinoma you can: Avoid the sun during the middle of the day. In many places, the sun's rays are strongest between about 10 a.m. and 4 p.m. Schedule outdoor activities for other times of the day, even during winter or when the sky is cloudy. Wear sunscreen year-round. Use a broad-spectrum sunscreen with an SPF of at least 30, even on cloudy days. Apply sunscreen generously, and reapply every two hours \u2014 or more often if you're swimming or perspiring., Wear protective clothing. Cover your skin with dark, tightly woven clothing that covers your arms and legs, and a broad-brimmed hat, which provides more protection than does a baseball cap or visor. Some companies also sell protective clothing. A dermatologist can recommend an appropriate brand. Don't forget sunglasses. Look for those that block both types of UV radiation \u2014 UVA and UVB rays., Avoid tanning beds. Tanning beds emit UV rays and can increase your risk of skin cancer., Check your skin regularly and report changes to your doctor. Examine your skin often for new skin growths or changes in existing moles, freckles, bumps and birthmarks. With the help of mirrors, check your face, neck, ears and scalp. Examine your chest and trunk and the tops and undersides of your arms and hands. Examine both the front and the back of your legs and your feet, including the soles and the spaces between your toes. Also check your genital area and between your buttocks.",
+        "node_source": "MONDO",
+        "node_name": "superficial multifocal basal cell carcinoma",
+        "mayo_causes": "Basal cell carcinoma occurs when one of the skin's basal cells develops a mutation in its DNA. Basal cells are found at the bottom of the epidermis \u2014 the outermost layer of skin. Basal cells produce new skin cells. As new skin cells are produced, they push older cells toward the skin's surface, where the old cells die and are sloughed off. The process of creating new skin cells is controlled by a basal cell's DNA. The DNA contains the instructions that tell a cell what to do. The mutation tells the basal cell to multiply rapidly and continue growing when it would normally die. Eventually the accumulating abnormal cells may form a cancerous tumor \u2014 the lesion that appears on the skin. Ultraviolet light and other causes, Much of the damage to DNA in basal cells is thought to result from ultraviolet radiation found in sunlight and in commercial tanning lamps and tanning beds. But sun exposure doesn't explain skin cancers that develop on skin not ordinarily exposed to sunlight. Other factors can contribute to the risk and development of basal cell carcinoma, and the exact cause may in some cases not be clear.",
+        "node_id": "2954"
+      },
+      "property_keys": [
+        "mayo_symptoms",
+        "mayo_see_doc",
+        "mondo_definitions",
+        "CUI",
+        "node_index",
+        "mayo_risk_factors",
+        "mayo_complications",
+        "mayo_prevention",
+        "node_source",
+        "node_name",
+        "mayo_causes",
+        "node_id"
+      ],
+      "combined_text": "Basal cell carcinoma usually develops on sun-exposed parts of your body, especially your head and neck. Less often, basal cell carcinoma can develop on parts of your body usually protected from the sun, such as the genitals. Basal cell carcinoma appears as a change in the skin, such as a growth or a sore that won't heal. These changes in the skin usually have one of the following characteristics: A pearly white, skin-colored or pink bump that is translucent, meaning you can see a bit through the surface. Tiny blood vessels are often visible. In people with darker skin tones, the lesion may be darker but still somewhat translucent. The most common type of basal cell carcinoma, this lesion often appears on the face and ears. The lesion may rupture, bleed and scab over. A brown, black or blue lesion \u2014 or a lesion with dark spots \u2014 with a slightly raised, translucent border. A flat, scaly, reddish patch with a raised edge is more common on the back or chest. Over time, these patches can grow quite large. A white, waxy, scar-like lesion without a clearly defined border, called morpheaform basal cell carcinoma, is the least common. When to see a doctor, Make an appointment with your doctor if you observe changes in the appearance of your skin, such as a new growth, a change in a previous growth or a recurring sore. ['A superficial basal cell carcinoma of the skin characterized by the presence of lobules of basaloid cells which are separated by large distances and represent multifocal discrete tumors.'] ['C0334256', 'C0862889'] 83755 Factors that increase your risk of basal cell carcinoma include: Chronic sun exposure. A lot of time spent in the sun \u2014 or in commercial tanning beds \u2014 increases the risk of basal cell carcinoma. The threat is greater if you live in a sunny or high-altitude location, both of which expose you to more UV radiation. Severe sunburns also increase your risk. Radiation therapy. Radiation therapy to treat acne or other skin conditions may increase the risk of basal cell carcinoma at previous treatment sites on the skin. Fair skin. The risk of basal cell carcinoma is higher among people who freckle or burn easily or who have very light skin, red or blond hair, or light-colored eyes. Increasing age. Because basal cell carcinoma often takes decades to develop, the majority of basal cell carcinomas occur in older adults. But it can also affect younger adults and is becoming more common in people in their 20s and 30s. A personal or family history of skin cancer. If you've had basal cell carcinoma one or more times, you have a good chance of developing it again. If you have a family history of skin cancer, you may have an increased risk of developing basal cell carcinoma. Immune-suppressing drugs. Taking medications that suppress your immune system, such as anti-rejection drugs used after transplant surgery, significantly increases your risk of skin cancer. Exposure to arsenic. Arsenic, a toxic metal that's found widely in the environment, increases the risk of basal cell carcinoma and other cancers. Everyone has some arsenic exposure because it occurs naturally. But some people may have higher exposure if they drink contaminated well water or have a job that involves producing or using arsenic. Inherited syndromes that cause skin cancer. Certain rare genetic diseases can increase the risk of basal cell carcinoma, including nevoid basal cell carcinoma syndrome and xeroderma pigmentosum. Complications of basal cell carcinoma can include: A risk of recurrence. Basal cell carcinomas commonly recur, even after successful treatment. An increased risk of other types of skin cancer. A history of basal cell carcinoma may also increase the chance of developing other types of skin cancer, such as squamous cell carcinoma. Cancer that spreads beyond the skin. Very rarely, basal cell carcinoma can spread to nearby lymph nodes and other areas of the body, such as the bones and lungs. To reduce your risk of basal cell carcinoma you can: Avoid the sun during the middle of the day. In many places, the sun's rays are strongest between about 10 a.m. and 4 p.m. Schedule outdoor activities for other times of the day, even during winter or when the sky is cloudy. Wear sunscreen year-round. Use a broad-spectrum sunscreen with an SPF of at least 30, even on cloudy days. Apply sunscreen generously, and reapply every two hours \u2014 or more often if you're swimming or perspiring., Wear protective clothing. Cover your skin with dark, tightly woven clothing that covers your arms and legs, and a broad-brimmed hat, which provides more protection than does a baseball cap or visor. Some companies also sell protective clothing. A dermatologist can recommend an appropriate brand. Don't forget sunglasses. Look for those that block both types of UV radiation \u2014 UVA and UVB rays., Avoid tanning beds. Tanning beds emit UV rays and can increase your risk of skin cancer., Check your skin regularly and report changes to your doctor. Examine your skin often for new skin growths or changes in existing moles, freckles, bumps and birthmarks. With the help of mirrors, check your face, neck, ears and scalp. Examine your chest and trunk and the tops and undersides of your arms and hands. Examine both the front and the back of your legs and your feet, including the soles and the spaces between your toes. Also check your genital area and between your buttocks. MONDO superficial multifocal basal cell carcinoma Basal cell carcinoma occurs when one of the skin's basal cells develops a mutation in its DNA. Basal cells are found at the bottom of the epidermis \u2014 the outermost layer of skin. Basal cells produce new skin cells. As new skin cells are produced, they push older cells toward the skin's surface, where the old cells die and are sloughed off. The process of creating new skin cells is controlled by a basal cell's DNA. The DNA contains the instructions that tell a cell what to do. The mutation tells the basal cell to multiply rapidly and continue growing when it would normally die. Eventually the accumulating abnormal cells may form a cancerous tumor \u2014 the lesion that appears on the skin. Ultraviolet light and other causes, Much of the damage to DNA in basal cells is thought to result from ultraviolet radiation found in sunlight and in commercial tanning lamps and tanning beds. But sun exposure doesn't explain skin cancers that develop on skin not ordinarily exposed to sunlight. Other factors can contribute to the risk and development of basal cell carcinoma, and the exact cause may in some cases not be clear. 2954",
+      "property_text": "superficial multifocal basal cell carcinoma 2954 ['A superficial basal cell carcinoma of the skin characterized by the presence of lobules of basaloid cells which are separated by large distances and represent multifocal discrete tumors.'] Basal cell carcinoma usually develops on sun-exposed parts of your body, especially your head and neck. Less often, basal cell carcinoma can develop on parts of your body usually protected from the sun, such as the genitals. Basal cell carcinoma appears as a c...",
+      "text_length": 503
+    },
+    {
+      "node_id": "4:0a8b23a3-516e-42a3-ba06-8fadfef3f647:19251",
+      "node_name": "actinic keratosis (disease)",
+      "labels": [
+        "disease"
+      ],
+      "entity_type": "disease",
+      "properties": {
+        "mayo_symptoms": "Actinic keratoses vary in appearance. Signs and symptoms include: Rough, dry or scaly patch of skin, usually less than 1 inch in diameter, Flat to slightly raised patch or bump on the top layer of skin, In some cases, a hard, wartlike surface, Color variations, including pink, red or brown, Itching, burning, bleeding or crusting, New patches or bumps on sun-exposed areas of the head, neck, hands and forearms",
+        "MEDLINEPLUS_definition": "<p>Your skin is your body's largest organ. It covers and protects your body. Your skin</p> <ul> <li>Holds body fluids in, preventing dehydration</li> <li>Keeps harmful microbes out, preventing <a href=\"https://medlineplus.gov/skininfections.html\">infections</a></li> <li>Helps you feel things like heat, cold, and pain</li> <li>Keeps your body temperature even</li> <li>Makes vitamin D when the sun shines on it</li> </ul> <p>Anything that irritates, clogs, or inflames your skin can cause symptoms such as redness, swelling, burning, and <a href=\"https://medlineplus.gov/itching.html\">itching</a>. Allergies, irritants, your genetic makeup, and certain diseases and immune system problems can cause <a href=\"https://medlineplus.gov/rashes.html\">rashes</a>, <a href=\"https://medlineplus.gov/hives.html\">hives</a>, and other skin conditions. Many skin problems, such as <a href=\"https://medlineplus.gov/acne.html\">acne</a>, also affect your appearance.</p> <p class=\"\">NIH: National Institute of Arthritis and Musculoskeletal and Skin Diseases</p>",
+        "NCI_definition": "A chronic inflammatory process affecting the skin. It is characterized by the presence of white, indurated plaques, epidermal atrophy, and fibrosis of the upper dermis. It usually appears in the vulva and penis.A disorder involving lesions or eruptions of the skin, usually without inflammation.Any deviation from the normal structure or function of the skin or subcutaneous tissue that is manifested by a characteristic set of symptoms and signs.",
+        "node_index": "83756",
+        "mayo_complications": "If treated early, actinic keratosis can be cleared up or removed. If left untreated, some of these spots might progress to squamous cell carcinoma \u2014 a type of cancer that usually isn't life-threatening if detected and treated early.",
+        "CUI": [
+          "C4282032",
+          "C0022602",
+          "C0022572",
+          "C0022603",
+          "C0023652",
+          "C0029574",
+          "C0037274",
+          "C0334019",
+          "C0334061",
+          "C0406045",
+          "C1321683",
+          "C1442958",
+          "C1534262",
+          "C1535138",
+          "C1541103"
+        ],
+        "node_source": "MONDO",
+        "mayo_causes": "An actinic keratosis is caused by frequent or intense exposure to UV rays from the sun or tanning beds.",
+        "NCI_FDA_definition": "Affecting the skin.",
+        "MSH_definition": "A chronic inflammatory mucocutaneous disease usually affecting the female genitalia (VULVAR LICHEN SCLEROSUS) and BALANITIS XEROTICA OBLITERANS in males. It is also called white spot disease and Csillag's disease.Diseases involving the DERMIS or EPIDERMIS.",
+        "node_id": "5173",
+        "umls_descriptions": [
+          "determination of diseases or disorders of the skin based on symptoms, medical history, risk factors, and clinical tests.",
+          "impairment of health or a condition of abnormal functioning of the skin.",
+          "Affecting the skin.",
+          "A chronic inflammatory mucocutaneous disease usually affecting the female genitalia and balanitis xerotica obliterans in males. It is also called white spot disease and Csillag's disease.",
+          "A chronic inflammatory process affecting the skin. It is characterized by the presence of white, indurated plaques, epidermal atrophy, and fibrosis of the upper dermis. It usually appears in the vulva and penis.",
+          "Your skin is your body's largest organ. It covers and protects your body. Your skin Holds body fluids in, preventing dehydration Keeps harmful microbes out, preventing infections Helps you feel things like heat, cold, and pain Keeps your body temperature even Makes vitamin D when the sun shines on it Anything that irritates, clogs, or inflames your skin can cause symptoms such as redness, swelling, burning, and itching. Allergies, irritants, your genetic makeup, and certain diseases and immune system problems can cause rashes, hives, and other skin conditions. Many skin problems, such as acne, also affect your appearance. NIH: National Institute of Arthritis and Musculoskeletal and Skin Diseases",
+          "Diseases involving the dermis or epidermis.",
+          "Any deviation from the normal structure or function of the skin or subcutaneous tissue that is manifested by a characteristic set of symptoms and signs.",
+          "A disorder involving lesions or eruptions of the skin, usually without inflammation."
+        ],
+        "mayo_see_doc": "When to see a doctor, It can be difficult to distinguish between noncancerous spots and cancerous ones. So it's best to have new skin changes evaluated by a doctor \u2014 especially if a scaly spot or patch persists, grows or bleeds.",
+        "mondo_definitions": [
+          "A precancerous lesion of the skin composed of atypical keratinocytes. It is characterized by the presence of thick, scaly patches of skin. Several histologic variants have been described, including atrophic, acantholytic, and hyperkeratotic variants."
+        ],
+        "mayo_risk_factors": "Anyone can develop actinic keratoses. But you're at increased risk if you: Have red or blond hair and blue or light-colored eyes, Have a history of a lot of sun exposure or sunburn, Tend to freckle or burn when exposed to sunlight, Are older than 40, Live in a sunny place, Work outdoors, Have a weakened immune system",
+        "node_name": "actinic keratosis (disease)",
+        "mayo_prevention": "Sun safety is necessary to help prevent development and recurrence of actinic keratosis patches and spots. Take these steps to protect your skin from the sun: Limit your time in the sun. Especially avoid time in the sun between 10 a.m. and 2 p.m. And avoid staying in the sun so long that you get a sunburn or a suntan., Use sunscreen. Before spending time outdoors, even on cloud days, apply a broad-spectrum water-resistant sunscreen with a sun protection factor of at least 30, as the American Academy of Dermatology recommends. Use sunscreen on all exposed skin, and use lip balm with sunscreen on your lips. Apply sunscreen at least 15 minutes before going outside and reapply it every two hours \u2014 or more often if you're swimming or perspiring. Sunscreen is not recommended for babies under 6 months. Rather, keep them out of the sun if possible, or protect them with shade, hats, and clothing that covers the arms and legs., Cover up. For extra protection from the sun, wear tightly woven clothing that covers your arms and legs. Also wear a broad-brimmed hat, which provides more protection than does a baseball cap or golf visor. Avoid tanning beds. The UV exposure from a tanning bed can cause just as much skin damage as a tan acquired from the sun. Check your skin regularly and report changes to your doctor. Examine your skin regularly, looking for the development of new skin growths or changes in existing moles, freckles, bumps and birthmarks. With the help of mirrors, check your face, neck, ears and scalp. Examine the tops and undersides of your arms and hands.",
+        "CSP_definition": "impairment of health or a condition of abnormal functioning of the skin.determination of diseases or disorders of the skin based on symptoms, medical history, risk factors, and clinical tests."
+      },
+      "property_keys": [
+        "mayo_symptoms",
+        "MEDLINEPLUS_definition",
+        "NCI_definition",
+        "node_index",
+        "mayo_complications",
+        "CUI",
+        "node_source",
+        "mayo_causes",
+        "NCI_FDA_definition",
+        "MSH_definition",
+        "node_id",
+        "umls_descriptions",
+        "mayo_see_doc",
+        "mondo_definitions",
+        "mayo_risk_factors",
+        "node_name",
+        "mayo_prevention",
+        "CSP_definition"
+      ],
+      "combined_text": "Actinic keratoses vary in appearance. Signs and symptoms include: Rough, dry or scaly patch of skin, usually less than 1 inch in diameter, Flat to slightly raised patch or bump on the top layer of skin, In some cases, a hard, wartlike surface, Color variations, including pink, red or brown, Itching, burning, bleeding or crusting, New patches or bumps on sun-exposed areas of the head, neck, hands and forearms <p>Your skin is your body's largest organ. It covers and protects your body. Your skin</p> <ul> <li>Holds body fluids in, preventing dehydration</li> <li>Keeps harmful microbes out, preventing <a href=\"https://medlineplus.gov/skininfections.html\">infections</a></li> <li>Helps you feel things like heat, cold, and pain</li> <li>Keeps your body temperature even</li> <li>Makes vitamin D when the sun shines on it</li> </ul> <p>Anything that irritates, clogs, or inflames your skin can cause symptoms such as redness, swelling, burning, and <a href=\"https://medlineplus.gov/itching.html\">itching</a>. Allergies, irritants, your genetic makeup, and certain diseases and immune system problems can cause <a href=\"https://medlineplus.gov/rashes.html\">rashes</a>, <a href=\"https://medlineplus.gov/hives.html\">hives</a>, and other skin conditions. Many skin problems, such as <a href=\"https://medlineplus.gov/acne.html\">acne</a>, also affect your appearance.</p> <p class=\"\">NIH: National Institute of Arthritis and Musculoskeletal and Skin Diseases</p> A chronic inflammatory process affecting the skin. It is characterized by the presence of white, indurated plaques, epidermal atrophy, and fibrosis of the upper dermis. It usually appears in the vulva and penis.A disorder involving lesions or eruptions of the skin, usually without inflammation.Any deviation from the normal structure or function of the skin or subcutaneous tissue that is manifested by a characteristic set of symptoms and signs. 83756 If treated early, actinic keratosis can be cleared up or removed. If left untreated, some of these spots might progress to squamous cell carcinoma \u2014 a type of cancer that usually isn't life-threatening if detected and treated early. ['C4282032', 'C0022602', 'C0022572', 'C0022603', 'C0023652', 'C0029574', 'C0037274', 'C0334019', 'C0334061', 'C0406045', 'C1321683', 'C1442958', 'C1534262', 'C1535138', 'C1541103'] MONDO An actinic keratosis is caused by frequent or intense exposure to UV rays from the sun or tanning beds. Affecting the skin. A chronic inflammatory mucocutaneous disease usually affecting the female genitalia (VULVAR LICHEN SCLEROSUS) and BALANITIS XEROTICA OBLITERANS in males. It is also called white spot disease and Csillag's disease.Diseases involving the DERMIS or EPIDERMIS. 5173 ['determination of diseases or disorders of the skin based on symptoms, medical history, risk factors, and clinical tests.', 'impairment of health or a condition of abnormal functioning of the skin.', 'Affecting the skin.', \"A chronic inflammatory mucocutaneous disease usually affecting the female genitalia and balanitis xerotica obliterans in males. It is also called white spot disease and Csillag's disease.\", 'A chronic inflammatory process affecting the skin. It is characterized by the presence of white, indurated plaques, epidermal atrophy, and fibrosis of the upper dermis. It usually appears in the vulva and penis.', \"Your skin is your body's largest organ. It covers and protects your body. Your skin Holds body fluids in, preventing dehydration Keeps harmful microbes out, preventing infections Helps you feel things like heat, cold, and pain Keeps your body temperature even Makes vitamin D when the sun shines on it Anything that irritates, clogs, or inflames your skin can cause symptoms such as redness, swelling, burning, and itching. Allergies, irritants, your genetic makeup, and certain diseases and immune system problems can cause rashes, hives, and other skin conditions. Many skin problems, such as acne, also affect your appearance. NIH: National Institute of Arthritis and Musculoskeletal and Skin Diseases\", 'Diseases involving the dermis or epidermis.', 'Any deviation from the normal structure or function of the skin or subcutaneous tissue that is manifested by a characteristic set of symptoms and signs.', 'A disorder involving lesions or eruptions of the skin, usually without inflammation.'] When to see a doctor, It can be difficult to distinguish between noncancerous spots and cancerous ones. So it's best to have new skin changes evaluated by a doctor \u2014 especially if a scaly spot or patch persists, grows or bleeds. ['A precancerous lesion of the skin composed of atypical keratinocytes. It is characterized by the presence of thick, scaly patches of skin. Several histologic variants have been described, including atrophic, acantholytic, and hyperkeratotic variants.'] Anyone can develop actinic keratoses. But you're at increased risk if you: Have red or blond hair and blue or light-colored eyes, Have a history of a lot of sun exposure or sunburn, Tend to freckle or burn when exposed to sunlight, Are older than 40, Live in a sunny place, Work outdoors, Have a weakened immune system actinic keratosis (disease) Sun safety is necessary to help prevent development and recurrence of actinic keratosis patches and spots. Take these steps to protect your skin from the sun: Limit your time in the sun. Especially avoid time in the sun between 10 a.m. and 2 p.m. And avoid staying in the sun so long that you get a sunburn or a suntan., Use sunscreen. Before spending time outdoors, even on cloud days, apply a broad-spectrum water-resistant sunscreen with a sun protection factor of at least 30, as the American Academy of Dermatology recommends. Use sunscreen on all exposed skin, and use lip balm with sunscreen on your lips. Apply sunscreen at least 15 minutes before going outside and reapply it every two hours \u2014 or more often if you're swimming or perspiring. Sunscreen is not recommended for babies under 6 months. Rather, keep them out of the sun if possible, or protect them with shade, hats, and clothing that covers the arms and legs., Cover up. For extra protection from the sun, wear tightly woven clothing that covers your arms and legs. Also wear a broad-brimmed hat, which provides more protection than does a baseball cap or golf visor. Avoid tanning beds. The UV exposure from a tanning bed can cause just as much skin damage as a tan acquired from the sun. Check your skin regularly and report changes to your doctor. Examine your skin regularly, looking for the development of new skin growths or changes in existing moles, freckles, bumps and birthmarks. With the help of mirrors, check your face, neck, ears and scalp. Examine the tops and undersides of your arms and hands. impairment of health or a condition of abnormal functioning of the skin.determination of diseases or disorders of the skin based on symptoms, medical history, risk factors, and clinical tests.",
+      "property_text": "actinic keratosis (disease) 5173 ['A precancerous lesion of the skin composed of atypical keratinocytes. It is characterized by the presence of thick, scaly patches of skin. Several histologic variants have been described, including atrophic, acantholytic, and hyperkeratotic variants.'] Actinic keratoses vary in appearance. Signs and symptoms include: Rough, dry or scaly patch of skin, usually less than 1 inch in diameter, Flat to slightly raised patch or bump on the top layer of skin, In some c...",
+      "text_length": 503
+    },
+    {
+      "node_id": "4:0a8b23a3-516e-42a3-ba06-8fadfef3f647:19252",
+      "node_name": "actinic cheilitis",
+      "labels": [
+        "disease"
+      ],
+      "entity_type": "disease",
+      "properties": {
+        "CUI": [
+          "C0267026",
+          "C0022602",
+          "C1442958"
+        ],
+        "node_index": "83757",
+        "node_source": "MONDO",
+        "node_name": "actinic cheilitis",
+        "node_id": "43300"
+      },
+      "property_keys": [
+        "CUI",
+        "node_index",
+        "node_source",
+        "node_name",
+        "node_id"
+      ],
+      "combined_text": "['C0267026', 'C0022602', 'C1442958'] 83757 MONDO actinic cheilitis 43300",
+      "property_text": "actinic cheilitis 43300",
+      "text_length": 23
+    },
+    {
+      "node_id": "4:0a8b23a3-516e-42a3-ba06-8fadfef3f647:19253",
+      "node_name": "melanoacanthoma",
+      "labels": [
+        "disease"
+      ],
+      "entity_type": "disease",
+      "properties": {
+        "mondo_definitions": [
+          "A benign, darkly pigmented skin lesion characterized by proliferation of keratinocytes and melanocytes."
+        ],
+        "CUI": [
+          "C1321683",
+          "C0022602",
+          "C0022603",
+          "C0334019"
+        ],
+        "node_index": "83758",
+        "node_source": "MONDO",
+        "node_name": "melanoacanthoma",
+        "node_id": "6579"
+      },
+      "property_keys": [
+        "mondo_definitions",
+        "CUI",
+        "node_index",
+        "node_source",
+        "node_name",
+        "node_id"
+      ],
+      "combined_text": "['A benign, darkly pigmented skin lesion characterized by proliferation of keratinocytes and melanocytes.'] ['C1321683', 'C0022602', 'C0022603', 'C0334019'] 83758 MONDO melanoacanthoma 6579",
+      "property_text": "melanoacanthoma 6579 ['A benign, darkly pigmented skin lesion characterized by proliferation of keratinocytes and melanocytes.']",
+      "text_length": 128
+    }
+  ]
+}
