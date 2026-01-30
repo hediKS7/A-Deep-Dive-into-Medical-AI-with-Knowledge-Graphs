@@ -9,7 +9,7 @@
 
 ## 🎯 Overview
 
-**Nurtura** is a specialized medical AI system that implements **Knowledge Graph–augmented Retrieval-Augmented Generation (KG-RAG)** for fertility and reproductive medicine. The system combines biomedical knowledge graphs with large language models to provide evidence-based clinical insights.
+**EPTanit** is a specialized medical AI system that implements **Knowledge Graph–augmented Retrieval-Augmented Generation (KG-RAG)** for fertility and reproductive medicine. The system combines biomedical knowledge graphs with large language models to provide evidence-based clinical insights.
 
 ### ✨ Key Innovations
 
